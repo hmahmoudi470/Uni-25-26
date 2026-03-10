@@ -1,6 +1,10 @@
 #include <iostream>
-int main()
+void myFunction()
 {
     std::cout<<"Hi\n"; 
+}
+int main()
+{
+    myFunction(); 
     return 0;
 }
