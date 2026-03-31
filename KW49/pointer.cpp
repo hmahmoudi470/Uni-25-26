@@ -13,6 +13,7 @@ int main()
     std::cout <<"Refrence: "<<&food <<std::endl; 
 
     // Output the memory address of food with the pointer 
-    std::cout <<"Pointer: "<<ptr <<std::endl; 
+    std::cout <<"Pointer: "<<ptr <<std::endl; //If I put a * before ptr, this indicates the content of the pointer.
+
     return 0; 
-}
+} 

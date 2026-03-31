@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/hakimmahmoudi/Uni-25-26/KW49/saver'
+relocations:     []
+...
